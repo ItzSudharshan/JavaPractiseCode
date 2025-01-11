@@ -1,0 +1,13 @@
+81) Binary Search 
+
+82) Linear Search 
+
+83) Bubble Sort
+
+84) Selection Sort 
+
+85) Insertion Sort
+
+86) Merge Sort 
+
+87) Quick Sort 
