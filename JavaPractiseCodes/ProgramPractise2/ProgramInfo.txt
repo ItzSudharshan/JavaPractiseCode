@@ -1,0 +1,109 @@
+26) Program to Find the Square Root of a Number using Binary Search 
+
+27) Finding the Power of a Number 
+
+28) Program to check if the Number is  a Strong Number or Not 
+
+29) Program for AutoMorphic Number 
+
+30) Java Program to check if Its a Harshad Number or not 
+
+31) Program to Check if its an Abundant Number or Not 
+
+32) Program to Check Friendly Pair 
+
+33) Program to get The LCM of a Number 
+
+34)//
+
+35) Binary to Decimal 
+
+36) Octal to Decimal 
+
+37) HexaDecimal to Decimal
+
+38) Replace all 0's with 1'S
+
+39) Add 2 Fractions and get the Simplified result 
+
+40) Area of the circle 
+
+41) Converting Number to Words
+
+42) Counting the Number of days in a Given Month of a year
+
+43) Occurance of a Digit in a Number 
+
+44) Finding Roots of a Quadratic Equation 
+
+45) Finding the largest Element in the Array 
+
+46) Finding the Smallest Element in the Array
+
+47) Finding the Second Smallest Element in the Array 
+
+48) Finding the Sum of All elements of the Array
+
+49) Reverse an Array 
+
+50) Sort first half of the Array in Ascending order and remaining half of the array in descending order
+
+51) Sort and Display the Array
+
+52) Count the Frequency of the Element in the Array
+
+53) Sort the elements of the array by Frequency
+
+54) Display the Distinct elements in the array along with the Count of Distinct elements 
+
+55) Display only repeating Elements in the array
+
+56) Display Non repeating elements
+
+57) Display even and odd Numbers in the array 
+
+58) Program to get the ASCII values of a Character 
+
+59) Find the Lenght of the String without using Lenght()
+
+60) Toggle String (Uppercase to lowercase // Lower Case to Uppercase)
+
+61) Count the Number of Vowels
+
+62) Java program to Remove Vowels
+
+63) String is  a Palindrome or not 
+
+64) String Reverse
+
+65) Remove Characters in the String except Alphabets 
+
+66) Remove All brackets from the String {}[]()
+
+67) Reverse the Entire Sentence 
+
+68) Return the Number from the entered String 
+
+69) Capitalize first and last letter from the String 
+
+70) Program to check Frequency of Character
+
+71) Program to display only repeated Characters
+
+72) Program to display First Non repeating Character
+
+73) Check if String is Anagram or Not 
+
+74) Replace substring in a String 
+
+75) Remove all Occurance of the specified Words
+
+76) Decimal to Binary 
+
+77) Decimal to Octal 
+
+78) Decimal to HexaDecimal
+
+79) Binary to Octal
+
+80) Octal to Binary
