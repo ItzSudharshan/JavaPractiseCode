@@ -1,0 +1,24 @@
+88) Extract Digits from a String
+Write a Java program that extracts all digits from a given string. Your program should:
+
+89)   Capitalize the First Letter of Each Word
+
+90) String Rotation Check
+Write a Java program that checks if one string is a rotation of another string. Your program should:
+Ask the user to input two strings.
+Check if the second string is a rotation of the first string.
+Print whether or not the second string is a rotation of the first string.
+
+91) Longest Substring Without Repeating Characters
+
+92) Regex Pattern Validator
+Write a Java program that checks if a given regex pattern is valid. Your program should:
+Prompt the user to input a regex pattern.
+Use exception handling to determine if the pattern is valid.
+Print whether the pattern is valid or not.
+Sample Input:
+[a-zA-Z0-9]+
+Sample Output:
+The pattern '[a-zA-Z0-9]+' is valid.
+
+93)Reverse a String Without Using a Temporary Variable
