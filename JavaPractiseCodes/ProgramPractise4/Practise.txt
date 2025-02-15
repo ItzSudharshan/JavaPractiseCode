@@ -22,3 +22,9 @@ Sample Output:
 The pattern '[a-zA-Z0-9]+' is valid.
 
 93)Reverse a String Without Using a Temporary Variable
+
+94) Palindrome Swapping in String
+Write a Java program that checks if a string can be rearranged to form a palindrome by swapping characters. Your program should:
+Ask the user to input a string.
+Determine if the string can be rearranged to form a palindrome.
+Print whether the string can form a palindrome or not.
