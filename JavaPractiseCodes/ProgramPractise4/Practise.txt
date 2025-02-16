@@ -28,3 +28,7 @@ Write a Java program that checks if a string can be rearranged to form a palindr
 Ask the user to input a string.
 Determine if the string can be rearranged to form a palindrome.
 Print whether the string can form a palindrome or not.
+
+95) Write a Java program that takes two integers x and y as input, where x ≤ y. The program should count how many numbers between x and y (inclusive) are divisible by x and print the count.
+
+96) Write a Java program that takes an integer N as input and determines the number of possible ways to express N as the sum of two positive integers A and B, where A > B.
