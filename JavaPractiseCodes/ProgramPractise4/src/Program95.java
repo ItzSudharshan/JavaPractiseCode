@@ -26,6 +26,16 @@ public class Program95 {
 				+result1+" ");
 		System.out.println("The consonants present in the given sentence is "
 				+result2+" ");
+		if(isPalindrome(result1)) {
+			System.out.println(result1+" is a Palindrome");
+		}else {
+			System.out.println(result1+" is not a Palindrome");
+		}
+		if(isPalindrome(result2)) {
+			System.out.println(result2+" is a Palindrome");
+		}else {
+			System.out.println(result2+" is not a Palindrome");
+		}
 		
 	}
 	public static String reverse(String str) {
@@ -35,7 +45,36 @@ public class Program95 {
 		}
 		return reverse;
 	}
+	
+	public static boolean isPalindrome(String str) {
+		String reverse = "";
+		for(int i = str.length()-1; i>=0 ; i--) {
+			reverse = reverse + str.charAt(i);
+		}
+		if(str.equals(reverse)) {
+			return true;
+		}else {
+			return false;
+		}
+	}
 
 }
 
 
+/*
+ * Enter the Sentence:
+KodNest Technologies
+The vowels present in the given sentence but in reversed Order is eiooeeo 
+The consonants present in the given sentence is KdNstTchnlgs 
+eiooeeo is not a Palindrome
+KdNstTchnlgs is not a Palindrome
+--------------------------------------------------------------------------
+Enter the Sentence:
+MADAM
+The vowels present in the given sentence but in reversed Order is AA 
+The consonants present in the given sentence is MDM 
+AA is a Palindrome
+MDM is a Palindrome
+
+
+ */
