@@ -39,3 +39,5 @@ Print whether the string can form a palindrome or not.
 
 
 97) Write a Java program that takes an integer N as input and determines the number of possible ways to express N as the sum of two positive integers A and B, where A > B.
+
+98) Write a Java program that takes an array of integers as input and moves all zeros to the end 
